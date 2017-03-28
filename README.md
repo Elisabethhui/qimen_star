@@ -33,3 +33,6 @@ The following messege is written in chinese:
 格式如下:
 YYYYMMDDHHIIG
 其中G為性別，１代表男性，０代表女性
+
+
+阴盘奇门遁甲排盘
